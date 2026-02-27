@@ -12,5 +12,5 @@ A simple calculator GUI app built with Python.
 ## 📸 App Preview
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="Calculator GUI" width="350"/>
+  <img src="assets/screenshot.png" alt="Calculator GUI" width="60%"/>
 </p>
