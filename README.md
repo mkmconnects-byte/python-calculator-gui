@@ -6,14 +6,11 @@ A simple calculator GUI app built with Python.
 - GUI calculator
 - Windows build via PyInstaller
 
-## Run locally
-```bash
-python cal.py
 
 
 
 ## 📸 App Preview
 
 <p align="center">
-  <img src="assets/screenshot.png" width="500"/>
+  <img src="assets/screenshot.png" alt="Calculator GUI" width="500"/>
 </p>
